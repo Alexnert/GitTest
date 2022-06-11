@@ -6,6 +6,7 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            SomeClass.Say();
             Console.WriteLine("Hello World!");
         }
     }
