@@ -8,6 +8,10 @@ namespace GitTest
 {
     public static class SomeClass
     {
+        public static void Test()
+        {
+            Console.WriteLine("SomeTest");
+        }
         public static void Say()
         {
             Console.WriteLine("Some word");
