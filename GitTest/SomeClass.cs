@@ -14,7 +14,7 @@ namespace GitTest
         }
         public static void Say()
         {
-            Console.WriteLine("Some word");
+            Console.WriteLine("Some word updated");
         }
     }
 }
